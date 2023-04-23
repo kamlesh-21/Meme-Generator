@@ -1,2 +1,2 @@
 # Meme Generator
- Meme generator based on chosen emotions
+ Meme generator upon top text and bottom text
